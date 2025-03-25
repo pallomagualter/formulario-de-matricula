@@ -1,15 +1,10 @@
-<!-- <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
-</p> -->
-
 <p align="center">
-Projeto de um Formulário de matrícula desenvolvido durante as aulas sobre Formulários na Rocketseat.
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
@@ -18,10 +13,10 @@ Projeto de um Formulário de matrícula desenvolvido durante as aulas sobre Form
 
 <br>
 
-<p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
-</p>
+## 👩🏻‍💻 Projeto
 
+Projeto de um Formulário de matrícula para uma escola de educação infantil desenvolvido durante as aulas sobre formulários na Rocketseat. 
+Trabalhando com diversos tipos de input além de rever e treinar bastante o CSS.
 
 ## 🚀 Tecnologias
 
@@ -30,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
-## Projeto
-
-Nesse projeto iremos desenvolver um Formulário de matrícula para uma escola de educação infantil. 
-Vamos trabalhar com diversos tipos de input além de rever e treinar bastante o nosso CSS.
+## 
+<p align="center">
+ Feito com 💜 by Palloma Gualter :wave:
+</p>
