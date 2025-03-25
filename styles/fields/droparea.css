@@ -1,5 +1,5 @@
 .dropzone {
-  border: 2px dashed transparent;
+  border: 2px dashed transparent; /* resolvendo layout shift */
   outline: 1px dashed var(--stroke-default);
   border-radius: .25rem;
 

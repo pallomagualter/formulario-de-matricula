@@ -4,7 +4,7 @@ select {
     appearance: none;
     width: 100%;
     border-radius: .5rem;
-    border: 2px solid transparent;
+    border: 2px solid transparent; /* resolvendo layout shift */
     outline: 1px solid var(--stroke-default);
 
     padding: .75rem 1rem;
