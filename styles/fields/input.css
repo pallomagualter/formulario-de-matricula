@@ -19,7 +19,7 @@ label {
     display: block;
     margin-bottom: .25rem;
 }
-
+/* sacada para esconder o calendar picker dos navegadores e usar um ícone padrão layout */
 input:focus,
 select:focus,
 textarea:focus,
@@ -49,6 +49,7 @@ input[type="date"] {
     }
 }
 
+/* forçar centralização de ícone com calc */
 select {
     background: url(../../assets/icons/arrow-down-01.svg) no-repeat calc(100% - 1rem);
 }
