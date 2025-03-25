@@ -2,6 +2,7 @@ label+.radio-wrapper {
     margin-top: 1rem;
 }
 
+/* hacker para grid preencher de acordo com o espaço definindo min e max */
 .radio-wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
